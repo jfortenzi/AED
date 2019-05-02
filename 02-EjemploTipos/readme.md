@@ -16,9 +16,9 @@ Proceso: Operaciones de ejemplo pertinentes a los tipos.
 Output: resultado de evaluaciones de las operaciones por medio de asserts.
 
 # Léxico
-b ∈ ℝ,  a ∈ Z 
-str string
-char array test[]
+b ∈ ℝ, a ∈ Z,  
+str string,  
+char array test[],  
 bool esMayorQue
 
 # ¿Son esos realmente todos los tipos que vimos en clase?
