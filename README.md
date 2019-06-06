@@ -11,3 +11,6 @@ Legajo: 1682295
 
 Ortenzi
 Juan Francisco
+
+Compilador: MinGW 
+IDE elegido: Visual Studio Code

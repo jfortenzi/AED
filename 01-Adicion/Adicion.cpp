@@ -12,5 +12,5 @@ int main()
     double num2;
     std::cin >> num2;
     
-    std::cout << num1 + num2 << endl;
+    std::cout << num1 + num2 << std::endl;
 }
